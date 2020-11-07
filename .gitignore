@@ -36,3 +36,4 @@ build/
 .mvn
 mvnw
 **/src/main/resources/META-INF/additional-spring-configuration-metadata.json
+*.log
